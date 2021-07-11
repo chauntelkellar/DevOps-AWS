@@ -5,7 +5,7 @@ variable "subnet_id_1" {
 
 variable "subnet_id_2" {
   type = string
-  default = "subnet-09af9b803d3c67831"
+  default = "subnet-016356202462fccf5"
 }
 
 variable "private_subnet_id_1" {
